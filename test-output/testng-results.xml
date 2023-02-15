@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-08T15:32:55 IST" name="Default suite" finished-at="2023-01-08T15:33:13 IST" duration-ms="17812">
+    <groups>
+    </groups>
+    <test started-at="2023-01-08T15:32:55 IST" name="Default test" finished-at="2023-01-08T15:33:13 IST" duration-ms="17812">
+      <class name="jan6.Equal_asserts">
+        <test-method signature="verify_title()[pri:0, instance:jan6.Equal_asserts@272113c4]" started-at="2023-01-08T15:32:55 IST" name="verify_title" finished-at="2023-01-08T15:33:13 IST" duration-ms="17736" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_title -->
+      </class> <!-- jan6.Equal_asserts -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
